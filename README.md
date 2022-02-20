@@ -13,27 +13,27 @@ The demand for blood has increased as the number of people becoming unwell and t
  Features
 </h2>
 Easy contact between blood donor and blood recipient through this android application.<br>
-Included:
-- User Databases
-- User Login & Sign up
-- Donor Details
-- AI voice support
-- Finding blood group easily
-- Finding Near By Hospitals
+Included:  <br/>
+- User Databases  <br/>
+- User Login & Sign up  <br/>
+- Donor Details  <br/>
+- AI voice support  <br/>
+- Finding blood group easily  <br/>
+- Finding Near By Hospitals  <br/>
 - Achievements & Rewards
  
   <br/> <br/> 
  
 <h2> 
  🔨TechStack Used
-</h2>
-- Firebase Database
-- Firebase Authentication
-- Google Maps Api
-- Android Studio IDE
-- Android version 4.0 or later
-- Android SDK 17-28
-- Alan AI
+</h2>   
+- Firebase Database  <br/>
+- Firebase Authentication  <br/>
+- Google Maps Api  <br/>
+- Android Studio IDE  <br/>
+- Android version 4.0 or later  <br/>
+- Android SDK 17-28  <br/>
+- Alan AI  <br/>
 
  <br/> <br/> 
 
