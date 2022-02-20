@@ -26,3 +26,10 @@ Included:
 - Alan AI
 
 ## Screen Shots
+![Screenshot_1645354740](https://user-images.githubusercontent.com/77083945/154844510-f50112d6-1ac6-41e0-995e-a35337794bdf.png)
+![Screenshot_1645354742](https://user-images.githubusercontent.com/77083945/154844512-54256b99-aef6-4eb2-9d9b-8404e1516e09.png)
+![Screenshot_1645354762](https://user-images.githubusercontent.com/77083945/154844514-bf7acf97-6278-49cb-9931-1154c8195cd7.png)
+![Screenshot_1645354805](https://user-images.githubusercontent.com/77083945/154844516-fa8e73e0-c92a-4f24-977d-6dda74363e6e.png)
+![Screenshot_1645354816](https://user-images.githubusercontent.com/77083945/154844517-2e7e8c87-001f-41a3-9a02-d495666cb068.png)
+![Screenshot_1645354825](https://user-images.githubusercontent.com/77083945/154844518-debb5bc9-ff7e-4935-bff2-82cd1b87aba8.png)
+![Screenshot_1645354862](https://user-images.githubusercontent.com/77083945/154844519-284ee75b-dc9e-4b6e-9a96-d6fecb49b508.png)
